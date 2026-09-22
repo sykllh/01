@@ -4,4 +4,6 @@ angka 3 = int(input("masukkan angka ketiga"))
 
 if angka 1 >= angka 2 AND angka 1 >= angka 3:
     terbesar = angka 1
-elif angka 2 >= angka 1 AND angka 2
+    print
+elif angka 2 >= angka 1 AND angka 2 >= angka 3:
+    terbesar = angka 2
